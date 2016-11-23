@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{86E8119D-647F-1E93-6DCF-4DE1271E5A43}") = "ExplorationGameGbg", "Assembly-CSharp.csproj", "{C3731F62-D5D1-40F6-E4E2-525E021A512B}"
+EndProject
+Project("{86E8119D-647F-1E93-6DCF-4DE1271E5A43}") = "ExplorationGameGbg", "Assembly-CSharp-Editor.csproj", "{396C806E-3AD9-E9DA-2F24-81C638AA4217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3731F62-D5D1-40F6-E4E2-525E021A512B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3731F62-D5D1-40F6-E4E2-525E021A512B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3731F62-D5D1-40F6-E4E2-525E021A512B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3731F62-D5D1-40F6-E4E2-525E021A512B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{396C806E-3AD9-E9DA-2F24-81C638AA4217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396C806E-3AD9-E9DA-2F24-81C638AA4217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396C806E-3AD9-E9DA-2F24-81C638AA4217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396C806E-3AD9-E9DA-2F24-81C638AA4217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
